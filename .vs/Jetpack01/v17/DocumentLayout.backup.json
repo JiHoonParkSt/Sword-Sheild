@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SGA_JJ\\Stage01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BD963A-A30D-4D57-89A4-78156C71642B}|Jetpack01\\Jetpack01.vcxproj|D:\\SGA_JJ\\Stage01\\Jetpack01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6BD963A-A30D-4D57-89A4-78156C71642B}|Jetpack01\\Jetpack01.vcxproj|solutionrelative:Jetpack01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\SGA_JJ\\Stage01\\Jetpack01\\main.cpp",
+              "RelativeDocumentMoniker": "Jetpack01\\main.cpp",
+              "ToolTip": "D:\\SGA_JJ\\Stage01\\Jetpack01\\main.cpp",
+              "RelativeToolTip": "Jetpack01\\main.cpp",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAAAOIBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T03:06:18.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

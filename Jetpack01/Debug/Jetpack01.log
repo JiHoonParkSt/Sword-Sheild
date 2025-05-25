@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\GLFW\glfw3.h(3235,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+main.obj : error LNK2019: __imp__glewInit@0_main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: _glfwInit_main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: _glfwTerminate_main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: _glfwCreateWindow_main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: _glfwDestroyWindow_main 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2019: _glfwMakeContextCurrent_main 함수에서 참조되는 확인할 수 없는 외부 기호
+D:\SGA_JJ\Jetpack01\Debug\Jetpack01.exe : fatal error LNK1120: 6개의 확인할 수 없는 외부 참조입니다.
